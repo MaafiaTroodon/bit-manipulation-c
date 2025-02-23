@@ -1,0 +1,3 @@
+C:/Users/malpr/OneDrive/Desktop/Winter CSCI2122/assn2/mdmahajan/marsdec1/cmake-build-debug-mingw/CMakeFiles/marsdec1.dir
+C:/Users/malpr/OneDrive/Desktop/Winter CSCI2122/assn2/mdmahajan/marsdec1/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/malpr/OneDrive/Desktop/Winter CSCI2122/assn2/mdmahajan/marsdec1/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

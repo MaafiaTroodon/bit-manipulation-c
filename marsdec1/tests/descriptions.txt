@@ -1,0 +1,11 @@
+00: 0 bytes
+01: 1 byte 0 
+02: 1 byte -1 
+03: 1 byte 1
+04: 1 byte -2
+05: 1 byte 3
+06: 1 byte -4
+07: 2 bytes, 3, bytes, 4 bytes
+08: 5 bytes, max size int positive, 5 bytes, max size int negative
+09: All of the above tests in one
+
